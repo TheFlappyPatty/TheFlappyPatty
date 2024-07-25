@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome to my Profile
+
+## About me
+My name is Ron
+I am a programmer and game Designer.
+
 
 <!--
 **TheFlappyPatty/TheFlappyPatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,3 +28,8 @@ Here are some ideas to get you started:
 -  https://github.com/TheFlappyPatty/Adventure2gamejam
 -  https://github.com/TheFlappyPatty/GameJam
 -  https://github.com/TheFlappyPatty/Retro-game
+
+-  published games
+-  https://aieseattle.itch.io/western-robots-associated
+-  https://aieseattle.itch.io/squid
+-  
