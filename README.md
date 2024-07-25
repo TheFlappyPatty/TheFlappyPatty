@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
                                      NachtMesser
 
- <a href="https://aieseattle.itch.io/western-robots-associated">Caramelized_Carnage</a>    <b href="https://aieseattle.itch.io/squid">NachtMesser</b>
+ <a href="https://aieseattle.itch.io/western-robots-associated">Caramelized_Carnage</a>    <a href="https://aieseattle.itch.io/squid">NachtMesser</a>
   
 <br>
 
