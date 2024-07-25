@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 -  active projects
 -  https://github.com/TheFlappyPatty/Undiscovered-Labyrinths
 -  https://github.com/TheFlappyPatty/Multiplayer-Project
+  
 <br>
+
 -  Total projects:
 -  https://github.com/TheFlappyPatty/Gyroplatformer
 -  https://github.com/TheFlappyPatty/RammyClicker
@@ -25,7 +27,9 @@ Here are some ideas to get you started:
 -  https://github.com/TheFlappyPatty/Adventure2gamejam
 -  https://github.com/TheFlappyPatty/GameJam
 -  https://github.com/TheFlappyPatty/Retro-game
+  
 <br>
+
 -  published games
 -  https://aieseattle.itch.io/western-robots-associated
 -  https://aieseattle.itch.io/squid
