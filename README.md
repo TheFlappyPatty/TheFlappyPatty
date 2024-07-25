@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html>
   <body>
 
                                                     <h1 style="text-align:center;">published games</h1>
@@ -8,7 +7,6 @@
                              <a href="https://aieseattle.itch.io/western-robots-associated">Caramelized_Carnage</a>                               <a href="https://aieseattle.itch.io/squid">NachtMesser</a>
 
   </body>
-</html>
 
 <br>
 
