@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -  How to reach me: jrverburg@yahoo.com
 -  Pronouns: He/him
 -->
-class box{display: flex; align-items:center;}
+<box>{display: flex; align-items:center;}</box>
 
 
 
