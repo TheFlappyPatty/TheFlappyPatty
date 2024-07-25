@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
                                                     <h1 style="text-align:center;">published games</h1>
   
