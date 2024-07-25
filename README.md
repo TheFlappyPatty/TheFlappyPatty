@@ -1,15 +1,10 @@
-<Doctype html>
-  <pre>
-<html>
-<body>
+
                                                     <h1 style="text-align:center;">published games</h1>
                         ![DgN2Qi](https://github.com/user-attachments/assets/4e2c3934-0d72-42f2-8c51-601e5ffb8382)
 
                              <a href="https://aieseattle.itch.io/western-robots-associated">Caramelized_Carnage</a>                               <a href="https://aieseattle.itch.io/squid">NachtMesser</a>
 
-</pre>
-</body>
-</html>
+
 <br>
 
 -  active projects
