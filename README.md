@@ -10,6 +10,17 @@ Here are some ideas to get you started:
 -  How to reach me: jrverburg@yahoo.com
 -  Pronouns: He/him
 -->
+<style>
+ rect{
+  fill: #333;
+  opacity: 0.3;
+  stroke: white;
+ }
+</style>
+
+
+
+
 
 <br>
 
