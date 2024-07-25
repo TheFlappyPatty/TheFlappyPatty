@@ -12,10 +12,13 @@ Here are some ideas to get you started:
 -->
 
 <br>
+
 -  published games
 -  https://aieseattle.itch.io/western-robots-associated
 -  https://aieseattle.itch.io/squid
   
+<br>
+
 -  active projects
 -  https://github.com/TheFlappyPatty/Undiscovered-Labyrinths
 -  https://github.com/TheFlappyPatty/Multiplayer-Project
