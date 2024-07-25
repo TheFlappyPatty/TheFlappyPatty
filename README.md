@@ -12,6 +12,39 @@ Here are some ideas to get you started:
 -->
 
 
+.wrapper {
+  display: flex;  
+  flex-flow: row wrap;
+}
+
+.main {
+  text-align: left;
+  background: deepskyblue;
+  width:70%;
+}
+
+
+.aside-1 {
+background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmug35W66IxVvu52OPl9Tz8TxoIOCD6hjxJbw6cOZIjjd_K5Mb');
+
+  background: purple;
+   width:20%;
+}
+.aside-1 img{
+  width:100%;
+}
+
+@media all and (min-width: 600px) {
+      .aside { flex: 1; }
+    }
+
+/*@media all and (min-width: 800px) {
+  .main    { flex: 3 0px; }
+  .main    { order: 1; }
+  .aside-1 { order: 2; } 
+ 
+}*/
+
 
 <pre>
 <br>
@@ -19,7 +52,7 @@ Here are some ideas to get you started:
 -  published games
 <div class="box"> 
   <img src="https://github.com/user-attachments/assets/d0e47881-d58f-4feb-9f39-042c360e1fa0" width="250"/>     <img src="https://github.com/user-attachments/assets/18f1115c-7d57-4447-a231-9711be2a4ffe" width="300"/>
-<span img src="https://github.com/user-attachments/assets/d0e47881-d58f-4feb-9f39-042c360e1fa0" width="250"> <a href="https://aieseattle.itch.io/western-robots-associated">Caramelized_Carnage</a></span>  <a href="https://aieseattle.itch.io/squid">NachtMesser</a>
+   <a href="https://aieseattle.itch.io/western-robots-associated">Caramelized_Carnage</a>  <a href="https://aieseattle.itch.io/squid">NachtMesser</a>
 </div>
   
 
