@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <br>
 ___________<img src="https://github.com/user-attachments/assets/d0e47881-d58f-4feb-9f39-042c360e1fa0" width="250"/>__________<img src="https://github.com/user-attachments/assets/18f1115c-7d57-4447-a231-9711be2a4ffe" width="300"/>
 
- ##Caramelized_Carnage    _____________________________________    ##NachtMesser
+___________ ##Caramelized_Carnage    _______________________________   ##NachtMesser
 
  https://aieseattle.itch.io/western-robots-associated  - https://aieseattle.itch.io/squid
   
