@@ -9,13 +9,13 @@ Here are some ideas to get you started:
 -  How to reach me: jrverburg@yahoo.com
 -  Pronouns: He/him
 -->
-
+<pre>
 <br>
 
 -  published games
-<> <img src="https://github.com/user-attachments/assets/d0e47881-d58f-4feb-9f39-042c360e1fa0" width="250"/>__________<img src="https://github.com/user-attachments/assets/18f1115c-7d57-4447-a231-9711be2a4ffe" width="300"/>
+ <img src="https://github.com/user-attachments/assets/d0e47881-d58f-4feb-9f39-042c360e1fa0" width="250"/>       <img src="https://github.com/user-attachments/assets/18f1115c-7d57-4447-a231-9711be2a4ffe" width="300"/>
 
-___________  Caramelized_Carnage    _____________________    NachtMesser
+           Caramelized_Carnage                 NachtMesser
 
  https://aieseattle.itch.io/western-robots-associated  - https://aieseattle.itch.io/squid
   
@@ -37,5 +37,5 @@ ___________  Caramelized_Carnage    _____________________    NachtMesser
 -  https://github.com/TheFlappyPatty/GameJam
 -  https://github.com/TheFlappyPatty/Retro-game
 
-
+</pre>
 
