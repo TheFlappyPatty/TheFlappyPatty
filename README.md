@@ -1,4 +1,5 @@
-
+<!DOCTYPE html>
+<html>
 ## Welcome to my profile 
 <!--
 **TheFlappyPatty/TheFlappyPatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +22,7 @@ Here are some ideas to get you started:
                              <a href="https://aieseattle.itch.io/western-robots-associated">Caramelized_Carnage</a>                               <a href="https://aieseattle.itch.io/squid">NachtMesser</a>
 
   </body>
+</html>
 
 <br>
 
