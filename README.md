@@ -11,6 +11,10 @@ Here are some ideas to get you started:
 -  Pronouns: He/him
 -->
 
+<br>
+-  published games
+-  https://aieseattle.itch.io/western-robots-associated
+-  https://aieseattle.itch.io/squid
   
 -  active projects
 -  https://github.com/TheFlappyPatty/Undiscovered-Labyrinths
@@ -27,10 +31,6 @@ Here are some ideas to get you started:
 -  https://github.com/TheFlappyPatty/Adventure2gamejam
 -  https://github.com/TheFlappyPatty/GameJam
 -  https://github.com/TheFlappyPatty/Retro-game
-  
-<br>
 
--  published games
--  https://aieseattle.itch.io/western-robots-associated
--  https://aieseattle.itch.io/squid
+
 
