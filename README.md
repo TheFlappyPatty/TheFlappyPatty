@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 
 -  I’m currently working on Two projects a multiplayer shooter & a twin stick shooter.
 -  I’m looking to collaborate on with artists on Both of my active projects.
--  How to reach me:Jrverburg@yahoo.com
+-  How to reach me: jrverburg@yahoo.com
 -  Pronouns: He/him
