@@ -1,6 +1,9 @@
 
                                                       published games
-                        ![DgN2Qi](https://github.com/user-attachments/assets/4e2c3934-0d72-42f2-8c51-601e5ffb8382)
+
+![DgN2Qi](https://github.com/user-attachments/assets/53e1bd68-b425-4b23-a027-beab832fc7d7)
+
+                                                      
 
                              <a href="https://aieseattle.itch.io/western-robots-associated">Caramelized_Carnage</a>                               <a href="https://aieseattle.itch.io/squid">NachtMesser</a>
 
