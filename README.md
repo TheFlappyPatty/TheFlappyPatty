@@ -4,9 +4,7 @@
 **TheFlappyPatty/TheFlappyPatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
 
-<!--
 -  I’m currently working on two projects a multiplayer shooter & a twin stick shooter.
 -  I’m looking to collaborate on with artists on Both of my active projects.
 -  How to reach me: jrverburg@yahoo.com
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 -  active projects
 -  https://github.com/TheFlappyPatty/Undiscovered-Labyrinths
 -  https://github.com/TheFlappyPatty/Multiplayer-Project
-\n
+/n
 -  Total projects:
 -  https://github.com/TheFlappyPatty/Gyroplatformer
 -  https://github.com/TheFlappyPatty/RammyClicker
@@ -27,7 +25,7 @@ Here are some ideas to get you started:
 -  https://github.com/TheFlappyPatty/Adventure2gamejam
 -  https://github.com/TheFlappyPatty/GameJam
 -  https://github.com/TheFlappyPatty/Retro-game
-\n
+/n
 -  published games
 -  https://aieseattle.itch.io/western-robots-associated
 -  https://aieseattle.itch.io/squid
