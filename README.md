@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -  Pronouns: He/him
 -->
 
-
+.box{ display: flex; align-items:center;}
 
 
 <pre>
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 -  published games
 <div> 
-  <img src="https://github.com/user-attachments/assets/d0e47881-d58f-4feb-9f39-042c360e1fa0" width:"250"/> 
+  <img src="https://github.com/user-attachments/assets/d0e47881-d58f-4feb-9f39-042c360e1fa0" width="250"/> 
   <span style="centered"><a href="https://aieseattle.itch.io/western-robots-associated">Caramelized_Carnage</a></span>
 </div>
   
