@@ -1,5 +1,8 @@
-### Welcome to my Profile
+<head>
+<title>Welcome to my Profile</title>
+</head>
 
+ 
 <!--
 **TheFlappyPatty/TheFlappyPatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
