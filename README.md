@@ -1,4 +1,6 @@
-  <link rel="stylesheet" href="styles.css">
+<!DOCTYPE html>
+<link rel="stylesheet" href="styles.css">
+
 <h1 style="text-align:center";>Published Games</h1>
 
  <pre><p style="text-align:center";><img src="DgN2Qi.png" width="300"/>          <img src="0C+4eS.png" width="300"/></p></pre>
