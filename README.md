@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 -  published games
  <img src="https://github.com/user-attachments/assets/d0e47881-d58f-4feb-9f39-042c360e1fa0" width="250"/>       <img src="https://github.com/user-attachments/assets/18f1115c-7d57-4447-a231-9711be2a4ffe" width="300"/>
 
-        Caramelized_Carnage                             NachtMesser
+                                     NachtMesser
 
- https://aieseattle.itch.io/western-robots-associated  - https://aieseattle.itch.io/squid
+ <a href="https://aieseattle.itch.io/western-robots-associated"Caramelized_Carnage</a>
+   - https://aieseattle.itch.io/squid
   
 <br>
 
