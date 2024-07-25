@@ -1,13 +1,17 @@
-<h1 style="text-align:center";>published games</h1>
+<h1 style="text-align:center";>Published Games</h1>
 
- <pre><p style="text-align:center";><img src="DgN2Qi.png" width="300"/>          <img src="0C+4eS.png" width="300"/></p></pre>
-<pre><p style="text-align:center";><a href="https://aieseattle.itch.io/western-robots-associated";>Caramelized Carnage</a>                                 <a href="https://aieseattle.itch.io/squid";>NachtMesser</a></p></pre>
+ <pre><p style="text-align:right";><img src="DgN2Qi.png" width="300"/>          <img src="0C+4eS.png" width="300"/></p></pre>
+<pre><p style="text-align:right";><a href="https://aieseattle.itch.io/western-robots-associated";>Caramelized Carnage</a>                                 <a href="https://aieseattle.itch.io/squid";>NachtMesser</a></p></pre>
 
 <br>
 
-    <h2>active projects<h2>
+<h2 style="text-align:center";>active projects</h2>
+<p style="text-align:center>
+
 -  https://github.com/TheFlappyPatty/Undiscovered-Labyrinths
+
 -  https://github.com/TheFlappyPatty/Multiplayer-Project
+</p>
   
 <br>
 
