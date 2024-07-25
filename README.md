@@ -1,7 +1,7 @@
 
                                                       published games
 
-![DgN2Qi](https://github.com/user-attachments/assets/53e1bd68-b425-4b23-a027-beab832fc7d7)
+                            ![DgN2Qi](https://github.com/user-attachments/assets/53e1bd68-b425-4b23-a027-beab832fc7d7)<width="300"/>
 
                                                       
 
