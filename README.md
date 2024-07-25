@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+ <meta charset="utd-8">
 <head>
 <title>Welcome to my Profile</title>
 </head>
