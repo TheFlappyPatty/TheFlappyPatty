@@ -1,20 +1,5 @@
 <!DOCTYPE html>
 <html>
-  
-
-<!--
-**TheFlappyPatty/TheFlappyPatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently working on two projects a multiplayer shooter & a twin stick shooter.
--  I’m looking to collaborate on with artists on Both of my active projects.
--  How to reach me: jrverburg@yahoo.com
--  Pronouns: He/him
--->
-
-<pre>
-<br>
   <body>
 
                                                     <h1 style="text-align:center;">published games</h1>
@@ -43,7 +28,6 @@ Here are some ideas to get you started:
 -  https://github.com/TheFlappyPatty/GameJam
 -  https://github.com/TheFlappyPatty/Retro-game
 
-</pre>
 
 
 
