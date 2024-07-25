@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 -  published games
  
  <div class="container">
-  <img src="https://github.com/user-attachments/assets/d0e47881-d58f-4feb-9f39-042c360e1fa0" alt="Snow" style="width:250;">
+  <img src="https://github.com/user-attachments/assets/d0e47881-d58f-4feb-9f39-042c360e1fa0"width:250;">
   <div class="bottom-left">Bottom Left</div>
   <div class="top-left">Top Left</div>
   <div class="top-right">Top Right</div>
   <div class="bottom-right">Bottom Right</div>
   <div class="centered">Centered</div>
 </div>
+ 
  <img src="https://github.com/user-attachments/assets/d0e47881-d58f-4feb-9f39-042c360e1fa0" width="250"/>       <img src="https://github.com/user-attachments/assets/18f1115c-7d57-4447-a231-9711be2a4ffe" width="300"/>
 
         <a href="https://aieseattle.itch.io/western-robots-associated">Caramelized_Carnage</a>                             <a href="https://aieseattle.itch.io/squid">NachtMesser</a>
