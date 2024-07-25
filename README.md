@@ -10,9 +10,7 @@ Here are some ideas to get you started:
 -  How to reach me: jrverburg@yahoo.com
 -  Pronouns: He/him
 -->
-span{
-vertical-align: top;
-}
+
 
 
 
@@ -22,7 +20,7 @@ vertical-align: top;
 -  published games
 <div> 
   <img src="https://github.com/user-attachments/assets/d0e47881-d58f-4feb-9f39-042c360e1fa0" width="250"/> 
-  <span><a href="https://aieseattle.itch.io/western-robots-associated">Caramelized_Carnage</a></span>
+  <span style=""><a href="https://aieseattle.itch.io/western-robots-associated">Caramelized_Carnage</a></span>
 </div>
   
   
